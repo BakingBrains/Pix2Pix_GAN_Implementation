@@ -6,6 +6,7 @@ required Modules:</br>
 ```
 
 Dataset: [Pix2Pix](https://www.kaggle.com/vikramtiwari/pix2pix-dataset)</br>
+Used the map dataset</br>
 
 - Clone the repository</br>
 - Create a folder named 'evaluation' in the working directory</br>
