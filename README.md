@@ -11,7 +11,9 @@ Used the map dataset</br>
 - Clone the repository</br>
 - Create a folder named 'evaluation' in the working directory</br>
 - Change the dataset path in <i>config.py</i></br>
-- Run <i>train.py</i>
+- Run <i>train.py</i></br>
+
+You can run it here in [Colab](https://colab.research.google.com/drive/1-ir548OR3qBJjfkuJKU_sd8ocVprAz6U?usp=sharing)</br>
 
 ```
 @misc{isola2018imagetoimage,
