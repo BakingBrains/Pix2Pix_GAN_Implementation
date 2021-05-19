@@ -2,7 +2,7 @@
 Pix2Pix GAN Implementation</br>
 required Modules:</br>
 ```
-!pip install -U git+https://github.com/albu/albumentations --no-cache-dir<br>
+!pip install -U git+https://github.com/albu/albumentations --no-cache-dir
 ```
 
 Dataset: [Pix2Pix](https://www.kaggle.com/vikramtiwari/pix2pix-dataset)</br>
